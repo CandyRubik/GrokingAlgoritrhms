@@ -39,6 +39,6 @@ public class QuickSort {
         list.add(100);
 
         List sortedList = qsort(list);
-        System.out.println("");
+        System.out.println(sortedList);
     }
 }
